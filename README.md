@@ -1,6 +1,6 @@
 # Control-Systems-App
 
-This folder contains the Control Systems app created using MATLAB App Designer. MATLAB App Designer is an interactive development environment for designing an app layout using custom UI components. 
+This folder contains the Control Systems app created using MATLAB App Designer (created as part of course ES245 - Control Systems). MATLAB App Designer is an interactive development environment for designing an app layout using custom UI components. 
 
 plots_final.exe is the app created to view various Control Systems plots (Bode plot, pole-zero plot and step response of a second-order transfer function) by changing the various parameters of a second order transfer function (gain K, damping ratio delta and natural frequency omega_n). 
 
