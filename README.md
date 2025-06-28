@@ -11,3 +11,7 @@ The below is the code view of the app in MATLAB App Designer:
 
 The below is the design view of the app: 
 ![image](https://github.com/user-attachments/assets/403cf184-81ac-4ddb-909b-5bde068fba58)
+
+The below is the view of the app:
+![image](https://github.com/user-attachments/assets/2b22f896-0a13-4ab6-a779-c0aca56bf4fb)
+
